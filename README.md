@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alison Leon 👋 
 
 <p align="center">
-  <img src=" " alt="Foto de portada de Alison" width="100%" />
+  <img src="portada.png" alt="Foto de portada de Alison" width="100%" />
 </p>
 
 ### 🚀 Sobre mí
