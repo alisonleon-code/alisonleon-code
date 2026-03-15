@@ -1,7 +1,7 @@
-# ¡Hola! Soy Alison León Salazar 👋 
+# ¡Hola! Soy Alison 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0091ea&height=200&section=header&text=Systems%20Engineer%20Student&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="URL_DE_TU_FOTO_DE_PORTADA_AQUÍ" alt="Foto de portada de Alison" width="100%" />
 </p>
 
 ### 🚀 Sobre mí
@@ -25,19 +25,4 @@ Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Tecnológica d
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Alison" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20único%20modo%20de%20hacer%20un%20gran%20trabajo%20es%20amar%20lo%20que%20haces." />
-</p>
+* **Ubicación:** Lima, Perú 🇵🇪
